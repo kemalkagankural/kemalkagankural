@@ -16,6 +16,7 @@
 - Creating big and small projects using **Computer Vision** 🌱
 - Making for **Relational Database Management Systems** 🌱
 - Solving Data structure and algorithm questions 🌱
+- Analyze and Mapping all datas🌱
 
 ## 📫 How to Reach Me
 
