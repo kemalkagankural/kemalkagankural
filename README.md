@@ -1,14 +1,17 @@
 <h1 align="center">Hi 👋, I'm Kemal Kağan Kural</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
-## ⚡ Technologies
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kemalkagankural&label=Profile%20views&color=0e75b6&style=flat" alt="erencataltepe" /> </p>
+
+
+- 🔭 I’m currently working on **Patika.dev Frontend developer path**
+
+- 🌱 I’m currently learning **React.js**
+
 - 📫 How to reach me **kemalkagankural@gmail.com**
-- Front-end development using **HTML, CSS, JavaScript (React)** 🌱
-- Backend development using **Java** 🌱
-- Creating big and small projects using **Computer Vision** 🌱
-- Making for **Relational Database Management Systems** 🌱
-- Solving Data structure and algorithm questions 🌱
-- Analyze and Mapping all datas🌱
--  📄 Know about my experiences [Check out my Resume](https://github.com/kemalkagankural/WebProgramming/files/7500008/KEMAL.KAGAN.KURAL.pdf)
+
+- 📄 Know about my experiences [Check out my Resume](https://github.com/kemalkagankural/WebProgramming/files/7500032/KEMAL.KAGAN.KURAL.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
