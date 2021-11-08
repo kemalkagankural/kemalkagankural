@@ -1,5 +1,5 @@
-# Kemal Kagan KURAL
-## Hi there <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" style="max-width:100%;"></a>😄
+<h1 align="center">Hi 👋, I'm Kemal Kağan Kural</h1>
+<h3 align="center">A passionate frontend developer from Turkey</h3>
 
 ## 🔭 Learning & Interested 
 
