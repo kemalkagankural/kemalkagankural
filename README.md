@@ -10,15 +10,25 @@
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/53565dea824952e7eccae630ca0d2888684ac96e58628a3db251d78300d0ee62/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2d6344313f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d45463746314126636f6c6f723d324232413239"><img src="https://camo.githubusercontent.com/53565dea824952e7eccae630ca0d2888684ac96e58628a3db251d78300d0ee62/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2d6344313f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d45463746314126636f6c6f723d324232413239" alt="Python" data-canonical-src="https://img.shields.io/badge/python-cD1?style=for-the-badge&amp;logo=python&amp;logoColor=EF7F1A&amp;color=2B2A29" style="max-width:100%;"></a></p>
 
 ## ⚡ Technologies
-💬 Talk to me about
-- Front-end development using **HTML, CSS, JavaScript (Angular)** 🌱
+- 📫 How to reach me **kemalkagankural@gmail.com**
+- Front-end development using **HTML, CSS, JavaScript (React)** 🌱
 - Backend development using **Java** 🌱
 - Creating big and small projects using **Computer Vision** 🌱
 - Making for **Relational Database Management Systems** 🌱
 - Solving Data structure and algorithm questions 🌱
 - Analyze and Mapping all datas🌱
+- - 📄 Know about my experiences [Check out my Resume](https://github.com/kemalkagankural/WebProgramming/files/7500008/KEMAL.KAGAN.KURAL.pdf)
 
-## 📫 How to Reach Me
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/kemalka%C4%9Fankural/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kemalkagankural" height="30" width="40" /></a>
+<a href="https://instagram.com/kemalkagankural" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kemalkagankural" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/kemalkagankural" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kemalkagankural" height="30" width="40" /></a>
+</p>
 
-<a href="https://www.linkedin.com/in/kemal-ka%C4%9Fan-kural-38975b187/" rel="nofollow"> <img alt="iletisim | Linkedin" src="https://camo.githubusercontent.com/72b128193842d9364c102e46a7c32b928493bbc816fb0a6a248add090df1a48f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d3242324132392e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d454637463141" data-canonical-src="https://img.shields.io/badge/linkedin-2B2A29.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=EF7F1A" style="max-width:100%;"></a>
-<!--
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kemalkagankural&show_icons=true&locale=en&layout=compact" alt="kemalkagankural" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kemalkagankural&show_icons=true&locale=en" alt="kemalkagankural" /></p>
+
