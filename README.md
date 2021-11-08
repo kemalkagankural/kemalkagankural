@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kemal Kağan Kural</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=kemalkagankural&label=Profile%20views&color=0e75b6&style=flat" alt="erencataltepe" /> </p>
-<div align="center"><img src="https://giphy.com/gifs/Y4ak9Ki2GZCbJxAnJD" width="400" height="250"  /> </div>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=kemalkagankural&label=Profile%20views&color=0e75b6&style=flat" alt="kemalkagankural" /> </p>
+<div align="center"><iframe src="https://giphy.com/embed/Y4ak9Ki2GZCbJxAnJD" width="480" height="302" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Y4ak9Ki2GZCbJxAnJD"></a></p> </div>
 <br>
 
 - 🔭 I’m currently working on **Patika.dev Frontend developer path**
