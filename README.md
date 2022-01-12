@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Patika.dev Frontend developer path**
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Test Automation**
 
 - 📫 How to reach me **kemalkagankural@gmail.com**
 
