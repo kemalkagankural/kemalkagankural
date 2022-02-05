@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Kemal Kağan Kural</h1>
-<h3 align="center">A passionate frontend developer from Turkey</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kemalkagankural&label=Profile%20views&color=0e75b6&style=flat" alt="kemalkagankural" /> </p>
 <div align="center"><img src="https://user-images.githubusercontent.com/66682123/140817808-b80bb191-63f6-4cb3-b5b6-d454d66846e7.gif" width="400" height="250"  /></div>
 <br>
