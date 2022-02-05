@@ -3,7 +3,6 @@
 <div align="center"><img src="https://user-images.githubusercontent.com/66682123/140817808-b80bb191-63f6-4cb3-b5b6-d454d66846e7.gif" width="400" height="250"  /></div>
 <br>
 
-- 🔭 I’m currently working on **Patika.dev Frontend developer path**
 
 - 🌱 I’m currently learning **Test Automation**
 
